@@ -8,13 +8,16 @@ Installation is simple, and free! Here is a guide on how to install:
 
 1. Click "Releases" on the right
 2. Click on the assets button under the latest release
-3. Download the file named "RPS"
+3. Download the file named "rock-paper-scissors"
 4. Run <code>chmod +x ~/Downloads/rock-paper-scissors</code>
 5. Run <code>~/Downloads/rock-paper-scissors</code> any time you want to play!
 
 You do not have to re-download the file to play again. Just open the file you downloaded by following the steps above!
 
+## Want to download the beta?
+
+Just [click me](https://github.com/Ryyn-Sd/Rock_Paper_Scissors/raw/master/beta/rock-paper-scissors) and follow the steps above starting from step 4
+
 ## Comming soon to Rock Paper Scissors Shoot
 
 - A graphical app that is more user-friendly, and you can use this on windows
-- A beta version, so you can see what you can expect in the next release
