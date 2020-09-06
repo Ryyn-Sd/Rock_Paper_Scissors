@@ -1,4 +1,4 @@
-name: Compile
+name: Beta
 on:
   schedule:
     - cron: "0 * * * *"
