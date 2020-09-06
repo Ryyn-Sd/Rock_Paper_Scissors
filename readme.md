@@ -18,6 +18,6 @@ You do not have to re-download the file to play again. Just open the file you do
 
 Just [click me](https://github.com/Ryyn-Sd/Rock_Paper_Scissors/raw/master/beta/rock-paper-scissors) and follow the steps above starting from Step 4
 
-## Comming soon to Rock Paper Scissors Shoot
+## Comming soon
 
-- A graphical app that is more user-friendly, and you can use this on windows
+A graphical app that is more user-friendly, and you can use this on windows
